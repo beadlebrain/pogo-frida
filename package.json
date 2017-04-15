@@ -1,0 +1,20 @@
+{
+  "name": "pogo-frida",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "frida": "^9.1.27",
+    "frida-load": "^1.0.0",
+    "fs-promise": "^2.0.2",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
